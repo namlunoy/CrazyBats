@@ -1,0 +1,13 @@
+E:\work\zgames\CrazyBats\CrazyBats\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+E:\work\zgames\CrazyBats\CrazyBats\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\work\zgames\CrazyBats\CrazyBats\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\work\zgames\CrazyBats\CrazyBats\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\work\zgames\CrazyBats\CrazyBats\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\work\zgames\CrazyBats\CrazyBats\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\work\zgames\CrazyBats\CrazyBats\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\work\zgames\CrazyBats\CrazyBats\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\work\zgames\CrazyBats\CrazyBats\obj\Debug\UnityVS.CrazyBats.CSharp.Plugins.csprojResolveAssemblyReference.cache
+E:\work\zgames\CrazyBats\CrazyBats\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\work\zgames\CrazyBats\CrazyBats\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\work\zgames\CrazyBats\CrazyBats\Temp\UnityVS_bin\Debug\VservPlugin.dll
+E:\work\zgames\CrazyBats\CrazyBats\Temp\UnityVS_bin\Debug\App42_Unity3D_SDK_WP8_3.1.dll
